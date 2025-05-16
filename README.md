@@ -1,5 +1,5 @@
 # Ex.08 Design of Interactive Image Gallery
-## Name: Yashasini.S
+## Name: Yashaswini.S
 ## Register Number:212224220123
 # Date:16.05.2025
 # AIM:
