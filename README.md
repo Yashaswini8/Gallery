@@ -1,5 +1,5 @@
 # Ex.08 Design of Interactive Image Gallery
-# Date:13.05.2025
+# Date:16.05.2025
 # AIM:
 To design a web application for an inteactive image gallery with minimum five images.
 
@@ -123,7 +123,7 @@ Publish the website in the given URL.
     </div>
 
     <footer>
-      &copy; 2024 designed by Krithika . All Rights Reserved.
+      &copy; 2024 designed by Yashaswini . All Rights Reserved.
     </footer>
 
     <script>
