@@ -1,4 +1,6 @@
 # Ex.08 Design of Interactive Image Gallery
+## Name: Yashasini.S
+## Register Number:212224220123
 # Date:16.05.2025
 # AIM:
 To design a web application for an inteactive image gallery with minimum five images.
